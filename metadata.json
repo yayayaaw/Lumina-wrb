@@ -1,0 +1,6 @@
+{
+  "name": "Lumina Roastery",
+  "description": "Lumina Roastery & Cafe - Premium coffee roastery, artisan kitchen, and gathering space in Cirebon.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
